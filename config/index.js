@@ -10,7 +10,7 @@ export const config = {
     APP_SECRET: "dced47746e485a5df924a95b88dae2ff",
 
     // 模板消息id
-    TEMPLATE_ID: "I2xEum-y656CFFNKqMOUpJ9nPMoab4TfD5JLLVmz0aQ",
+    TEMPLATE_ID: "xbs8tkWP3B5JL-GjgIkZ0rSkQuNDR2XNmXDxrVEWmgI",
 
 
 
