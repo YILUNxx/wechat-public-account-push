@@ -4,10 +4,10 @@ export const config = {
      */
 
     // 公众号APP_ID
-    APP_ID: "1000002",
+    APP_ID: "wx391251db37a256da",
 
     // 公众号APP_SECRET
-    APP_SECRET: "1kYbnbltkKmYWfmfrYaqik44HqCW3-vTQSjE8ZNfuC0",
+    APP_SECRET: "dced47746e485a5df924a95b88dae2ff",
 
     // 模板消息id
     TEMPLATE_ID: "xbs8tkWP3B5JL-GjgIkZ0rSkQuNDR2XNmXDxrVEWmgI",
